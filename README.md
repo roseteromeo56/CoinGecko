@@ -1,3 +1,4 @@
+![gecko-65456030ba03df0f83f96e18d0c8449485c1a61dbdeeb733ca69164982489d0e](https://github.com/Romeo-Rosete/CoinGecko/assets/110788242/7901a3b7-d63c-4c09-8de5-0efb2abab47b)
 # CRM App
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
